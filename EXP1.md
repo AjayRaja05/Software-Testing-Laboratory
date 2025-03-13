@@ -11,13 +11,9 @@ To write python programs for do…while, while, for, switch and if…else and te
 
 Algorithm:
 Start the program.
-
 Create separate files for each given program.
-
 Write simple program for each construct.
-
 the program with possible test cases.
-
 Stop the program.
 
 Program:
