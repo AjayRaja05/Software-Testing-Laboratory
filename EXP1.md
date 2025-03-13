@@ -7,19 +7,20 @@ REGISTER NUMBER :212224240006
 
 
 AIM:
-
 To write python programs for do…while, while, for, switch and if…else and test with possible test Cases
 
 Algorithm:
+Start the program.
 
-Start the program.\n
-Create separate files for each given program.\n
-Write simple program for each construct.\n
-the program with possible test cases.\n
+Create separate files for each given program.
+
+Write simple program for each construct.
+
+the program with possible test cases.
+
 Stop the program.
 
 Program:
-
 1.DO WHILE:
 
 
