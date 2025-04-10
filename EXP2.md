@@ -1,9 +1,11 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 27-03-2025
+
+### REGISTER NUMBER : 212224240006 
 
 ### AIM: 
+
 Write a python program for matrix multiplication and inspect for failures.
  
 ### Algorithm:
@@ -18,6 +20,10 @@ Algorithm:
 ### Program:
 
 
+![exp 2 code](https://github.com/user-attachments/assets/16807c89-9917-416c-84b3-a3babc3fc7ae)
+
+
+
 
 
 
@@ -30,6 +36,10 @@ Algorithm:
 
 
 ### Output:
+
+
+![exp 2 output](https://github.com/user-attachments/assets/a69821ca-6c7b-4ea2-abd8-9e72c0016f0f)
+
 
 
 
