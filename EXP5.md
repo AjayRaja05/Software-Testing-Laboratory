@@ -1,3 +1,8 @@
+### Date: 24/04/25
+
+### Register number: 212224240006
+
+
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
